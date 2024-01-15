@@ -1,0 +1,1 @@
+Any editing operation in the slint file will cause the Slint LSP to crash.
